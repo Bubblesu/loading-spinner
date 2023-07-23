@@ -13,7 +13,7 @@ Projeto com o objetivo de praticar meus estudos em programação. <br/>
 <br>
 
 <p align="center">
-  <img alt="Loading Spinner" src=".github/capa.jpng" width="100%">
+  <img alt="Loading Spinner" src=".github/capa.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
